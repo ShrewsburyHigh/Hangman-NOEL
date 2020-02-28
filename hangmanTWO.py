@@ -23,6 +23,5 @@ def test():
         lives=life-1
         return lives
         
-        
     else life = 0:
         print=("you lost")         
